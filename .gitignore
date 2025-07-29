@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.sublime-*
+
+# Environment variables and credentials
+.env
+
+# Logs
+*.log
+
+# Dependency directories
+vendor/
+node_modules/
+
+# Database files
+*.sqlite
